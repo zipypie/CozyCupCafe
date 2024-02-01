@@ -5,6 +5,187 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
     <title>Document</title>
+    <style>
+
+        .newsletter-form {
+            background-color: #4c3c32;
+            color: white;
+            padding: 20px;
+            text-align: center;
+          }
+          
+          .newsletter-form h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: white;
+          }
+          
+          .newsletter-form p {
+            font-size: 16px;
+            color: white;
+            margin-bottom: 20px;
+          }
+          
+          .input-group {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          }
+          
+          input[description="email"] {
+            width: 250px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-right: 10px;
+          }
+          
+          button[description="submit"] {
+            background-color: #54a057;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+          }
+          
+          button[description="submit"]:hover {
+            background-color: #45a049;
+          }
+          form{
+            margin: 0;
+        }
+    
+    
+    /*
+    styling footer starts here
+    */
+    
+    
+    
+          .site-footer {
+            background-color: #6e4c35; /* Brown background */
+            color: #fff;
+            padding: 20px 0;
+          }
+          
+          .container {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+          }
+          
+          .footer-links ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+          }
+          
+          .footer-links ul li {
+            display: inline-block;
+            margin-right: 20px;
+          }
+          
+          .footer-links ul li:last-child {
+            margin-right: 0;
+          }
+          
+          .social-media-icons img {
+            width: 30px;
+            height: 30px;
+            margin-right: 10px;
+            margin-top: 15px;
+          }
+          .site-footer a{
+            color: white;
+          }
+    
+          /*
+          this style below will be use for feature products
+          */
+          .coffee-card {
+            position: relative;
+            background-color: rgba(94, 94, 94, 0.1);
+            border-radius: 5px;
+            height: auto;
+            width: 300px;
+            margin: 1rem;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(94, 94, 94, 0.1);
+        }
+        
+        .coffee-info-container {
+            height: 150px;
+            position: absolute;
+            bottom: -80px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+            align-content: start;
+            justify-content: start;
+            transition: bottom 0.2s ease-in;
+            transform: translateY(100%);
+        }
+        
+        .coffee-card:hover .coffee-info-container {
+            transform: translateY(45px);
+        }
+        
+        .coffee-card:hover img {
+            cursor: pointer;
+            transform: translateY(-120px);
+        }
+        
+        .coffee-card:hover .coffee-info-container {
+            bottom: 0;
+        }
+        
+        #coffee-title {
+            margin-bottom: 3px;
+            font-size: 1rem;
+            color: rgb(215, 186, 102);
+            font-weight: 900;
+        }
+        
+    .f-s-coffee {
+        text-align: start;
+        margin: 0;
+        padding: 0;
+        padding-left: 1rem;
+        font-family: "Poppins", sans-serif;
+        font-size: 0.7rem;
+        color: rgb(209, 209, 209);
+    }
+    .content{
+    
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        align-items: center;
+        align-content: center;
+        justify-content: space-evenly;
+        height: auto;
+    }
+        .title{
+            font-size: 1.3rem;
+            color: rgb(76, 60, 50);
+        }
+    
+        .description{
+            color: rgb(148, 72, 72);
+        }
+    
+        /*Best Seller coffee*/
+    
+        .best-seller-coffee{
+            text-align: center;
+        }
+    
+        /**/
+    
+    </style>
 </head>
 <body>
     <header>
