@@ -37,7 +37,7 @@ The contact page displays the location of the coffee shop and form that the user
 <img src="https://avatars.githubusercontent.com/u/131941627?s=400&v=4" alt="Jubil L. Cabrestante" width="150" style="border-radius: 50%">
 
 - __Name:__ Jubil L. Cabrestante
-- __Email:** 201980170@psu.palawan.edu.ph
+- __Email:__ 201980170@psu.palawan.edu.ph
 
 Connect with me:
 [![Facebook](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true)](https://www.facebook.com/jubil18)
