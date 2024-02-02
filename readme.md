@@ -1,14 +1,14 @@
 # Cozy Cup Cafe
 
 ## Project Description
-Cozy Cup Cafe is a web application designed to help users discover and explore cozy cafes in their area. Whether you're looking for a quiet place to work, meet friends, or simply enjoy a good cup of coffee, Cozy Cup Cafe has you covered. With user-friendly features and a sleek interface, finding your new favorite spot has never been easier.
+Cozy Cup Cafe is a web application designed to help users discover and explore cozy cafes in their area. Whether you're looking for a quiet place to work, meet friends, or simply enjoy a good cup of coffee, Cozy Cup Cafe has you covered. With user-friendly features and a great interface, finding your new favorite spot has never been easier.
 
 ## Features
-- Search for cafes by location
+- Preview of Best Seller  Coffee Drink and Pastry.
 - View Menu Page, including photos,price and descriptions of each item. 
 - About Us  page with information about the business and its mission statement.
 - Social Media links to connect with friends on various platforms.
-
+- Preview Location  of the cafe using Google Maps API.
 ## Screen Captures
 
 ### Home Page
@@ -16,7 +16,7 @@ Cozy Cup Cafe is a web application designed to help users discover and explore c
 ![](img/h2.png)
 ![](img/h3.png)
 ![](img/h4.png)
-The home page welcomes users and provides a search bar to begin exploring cafes in their area.
+The home page welcomes users and browse to begin exploring cafes in their area.
 
 ### Menu Page
 ![Menu Page](img/m1.png)
