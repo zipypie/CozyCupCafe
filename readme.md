@@ -12,18 +12,24 @@ Cozy Cup Cafe is a web application designed to help users discover and explore c
 ## Screen Captures
 
 ### Home Page
-![Home Page](img/h1.png)(img/h2.png)(img/h3.png)(img/h4.png)
+![Home Page](img/h1.png)
+![](img/h2.png)
+![](img/h3.png)
+![](img/h4.png)
 The home page welcomes users and provides a search bar to begin exploring cafes in their area.
 
 ### Menu Page
-![Menu Page](img/m1.png)(img/m2.png)
+![Menu Page](img/m1.png)
+![](img/m2.png)
 The menu page displays information about a selected cafe, including photos.
 
 ### About Us Page
-![About Us Page](img/a1.png)(img/a2.png)
+![About Us Page](img/a1.png)
+![](img/a2.png)
 Users can view the content about the business
 ### Contact Page
-![Contact Page](img/c1.png)(img/c2.png)
+![Contact Page](img/c1.png)
+![](img/c2.png)
 The contact page displays the location of the coffee shop and form that the user can 
 
 ## About the Authors
